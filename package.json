@@ -1,0 +1,22 @@
+{
+  "name": "ngx-bulma-image-uploader",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.1.6",
+    "@angular/core": "^10.1.6",
+    "@angular/fire": "^6.0.3",
+    "bulma": "^0.9.1",
+    "firebase": "^7.24.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/ngx-bulma-image-uploader.umd.js",
+  "module": "fesm2015/ngx-bulma-image-uploader.js",
+  "es2015": "fesm2015/ngx-bulma-image-uploader.js",
+  "esm2015": "esm2015/ngx-bulma-image-uploader.js",
+  "fesm2015": "fesm2015/ngx-bulma-image-uploader.js",
+  "typings": "ngx-bulma-image-uploader.d.ts",
+  "metadata": "ngx-bulma-image-uploader.metadata.json",
+  "sideEffects": false
+}
